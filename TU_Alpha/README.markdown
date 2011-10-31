@@ -1,5 +1,4 @@
 
-
 TU_Alpha MGL7361
 =============
 
@@ -13,8 +12,8 @@ Java [JDK >= 6][jdk], Gradle [gradle] et [git][git] doivent être installés.
 Marche à suivre
 ---------------
 
-    $ git clone git://github.com/gitalpha/Final.git 
-    $ cd Final/TU_Alpha 
+    $ git clone git://github.com/gitalpha/MiSession.git 
+    $ cd MiSession/TU_Alpha 
     $ gradle test
     $ gradle run
 
